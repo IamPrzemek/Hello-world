@@ -1,2 +1,14 @@
-# Hello-world
-My first steps in IT world and second repository for GitHub course
+# Hello-world  
+
+## About me  
+
+Hello
+
+My name is Przemek and I'm mechanical engineer from Gdańsk
+
+---
+
+ADVENTURE TIME
+
+
+
